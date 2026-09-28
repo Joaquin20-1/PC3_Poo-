@@ -5,6 +5,9 @@ public class main {
         FormCurso formulario = new FormCurso();
         formulario.setVisible(true);
         formulario.setLocationRelativeTo(null);
+        
+        
+        
     }
     
 }
